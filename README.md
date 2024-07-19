@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## sunmin-hwang 🌱
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C7CD4C&title_bg=%237C0B0B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tommy0819)](https://solved.ac/tommy0819/)
 <!--
 **sunmin-hwang/sunmin-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
